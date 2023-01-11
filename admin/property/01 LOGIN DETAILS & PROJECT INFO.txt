@@ -1,4 +1,4 @@
-**Log on to codeastro.com for more projects!***
+**Log on to .com for more projects!***
 
 **Database Name: realestatephp**
 
@@ -10,6 +10,6 @@
 **Admin Login Details**
 
 Username: admin
-Password: codeastro.com
+Password: .com
 
 
